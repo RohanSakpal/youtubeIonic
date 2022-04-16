@@ -1,0 +1,7 @@
+{
+  "name": "youtubeIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
